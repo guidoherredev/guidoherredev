@@ -1,5 +1,3 @@
-@@ -1,16 +1,24 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Guido Herrera</h1>
 <h3 align="center">Analista Programador Universitario and Full Stack Developer</h3>
 
